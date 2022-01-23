@@ -5,4 +5,5 @@
 - [📚 Git flow & branch rules](/git/git_flow.md)
 
 ## Android
-🚧 preparing
+### Naming convention
+- [XML](/android/naming_convention/xml.md)
